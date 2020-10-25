@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3e0c7576dfab03f889f7fdc31f45ce5",
+    "revision": "46fb557a7a12929b33e5a01d10645d73",
     "url": "/reactjs-dscBiet/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactjs-dscBiet/static/css/2.49933f5d.chunk.css"
   },
   {
-    "revision": "120c9f49b3c335fdaba4",
-    "url": "/reactjs-dscBiet/static/css/main.20570a9f.chunk.css"
+    "revision": "131ae341e04cbdbb105d",
+    "url": "/reactjs-dscBiet/static/css/main.52ebe688.chunk.css"
   },
   {
     "revision": "12c6e4d2c85ee2a51aaf",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactjs-dscBiet/static/js/2.9179a8d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "120c9f49b3c335fdaba4",
-    "url": "/reactjs-dscBiet/static/js/main.00e0fbe5.chunk.js"
+    "revision": "131ae341e04cbdbb105d",
+    "url": "/reactjs-dscBiet/static/js/main.a4f07684.chunk.js"
   },
   {
     "revision": "a514198e2a148c8e16e0",
